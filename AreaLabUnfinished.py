@@ -1,17 +1,17 @@
-import math
+import math 
 import unittest
 
-def circleArea(radius):
-	return 1;
+def circleArea(radius): 
+    return 1
 
 def rectArea(base, height):
-	return 1;
+    return 1
 
 def trapArea(base1, base2, height):
-	return 1;
+    return 1
 
 def triArea(base,height):
-	return 1;
+    return 1
     
 	
 class MyTest(unittest.TestCase):
@@ -22,4 +22,5 @@ class MyTest(unittest.TestCase):
     def testTrapArea(self):
     
     def testTriArea(self):
+    
     
